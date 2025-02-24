@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpegitimkamp\u0131_301\\csharpegitimkamp\u0131_301.entitylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|solutionrelative:csharpegitimkamp\u0131_301.entitylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpegitimkamp\u0131_301\\csharpegitimkamp\u0131_301.entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|solutionrelative:csharpegitimkamp\u0131_301.entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpegitimkamp\u0131_301\\csharpegitimkamp\u0131_301.entitylayer\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|solutionrelative:csharpegitimkamp\u0131_301.entitylayer\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpegitimkamp\u0131_301\\csharpegitimkamp\u0131_301.entitylayer\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|solutionrelative:csharpegitimkamp\u0131_301.entitylayer\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpegitimkamp\u0131_301\\csharpegitimkamp\u0131_301.entitylayer\\concrete\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0690D9-3AAA-42BB-B44C-6FAF45ECF599}|CSharpEgitimKamp\u0131_301.EntityLayer\\CSharpEgitimKamp\u0131_301.EntityLayer.csproj|solutionrelative:csharpegitimkamp\u0131_301.entitylayer\\concrete\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Product.cs",
+              "RelativeToolTip": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:40:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Order.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Order.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Order.cs",
+              "RelativeToolTip": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:40:02.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Customer.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Customer.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Customer.cs",
+              "RelativeToolTip": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:40:02.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Category.cs",
+              "RelativeToolTip": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:40:01.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Admin.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Admin.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpEgitimKamp\u0131_301\\CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Admin.cs",
+              "RelativeToolTip": "CSharpEgitimKamp\u0131_301.EntityLayer\\Concrete\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:40:00.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
