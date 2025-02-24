@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\09_DatabaseCRUD\bin\Debug\09_DatabaseCRUD.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\09_DatabaseCRUD\bin\Debug\09_DatabaseCRUD.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\09_DatabaseCRUD\bin\Debug\09_DatabaseCRUD.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\09_DatabaseCRUD\obj\Debug\09_DatabaseCRUD.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\09_DatabaseCRUD\obj\Debug\09_DatabaseCRUD.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\09_DatabaseCRUD\obj\Debug\09_DatabaseCRUD.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\09_DatabaseCRUD\obj\Debug\09_DatabaseCRUD.pdb

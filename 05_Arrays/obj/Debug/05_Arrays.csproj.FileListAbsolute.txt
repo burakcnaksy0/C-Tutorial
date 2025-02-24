@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\05_Arrays\bin\Debug\05_Arrays.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\05_Arrays\bin\Debug\05_Arrays.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\05_Arrays\bin\Debug\05_Arrays.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\05_Arrays\obj\Debug\05_Arrays.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\05_Arrays\obj\Debug\05_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\05_Arrays\obj\Debug\05_Arrays.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\05_Arrays\obj\Debug\05_Arrays.pdb

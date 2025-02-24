@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\02_KararYapıları\bin\Debug\02_KararYapıları.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\02_KararYapıları\bin\Debug\02_KararYapıları.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\02_KararYapıları\bin\Debug\02_KararYapıları.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\02_KararYapıları\obj\Debug\02_MakingDecisions.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\02_KararYapıları\obj\Debug\02_MakingDecisions.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\02_KararYapıları\obj\Debug\02_KararYapıları.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\02_KararYapıları\obj\Debug\02_KararYapıları.pdb

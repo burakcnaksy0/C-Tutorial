@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\07_Methods\bin\Debug\07_Methods.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\07_Methods\bin\Debug\07_Methods.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\07_Methods\bin\Debug\07_Methods.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\07_Methods\obj\Debug\07_Methods.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\07_Methods\obj\Debug\07_Methods.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\07_Methods\obj\Debug\07_Methods.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\07_Methods\obj\Debug\07_Methods.pdb

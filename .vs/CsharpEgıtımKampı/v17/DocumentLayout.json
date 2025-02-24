@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC079FD-AEDC-4864-BE56-DEAB970516AE}|09_DatabaseCRUD\\09_DatabaseCRUD.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpeg\u0131t\u0131mkamp\u0131\\09_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC079FD-AEDC-4864-BE56-DEAB970516AE}|09_DatabaseCRUD\\09_DatabaseCRUD.csproj|solutionrelative:09_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F601692-64F6-48E4-A18C-35516ED48C8C}|08_DatabaseProject\\08_DatabaseProject.csproj|C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\08_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F601692-64F6-48E4-A18C-35516ED48C8C}|08_DatabaseProject\\08_DatabaseProject.csproj|solutionrelative:08_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8370092D-BE26-400E-A55B-363DA42951D4}|07_Methods\\07_Methods.csproj|C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\07_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8370092D-BE26-400E-A55B-363DA42951D4}|07_Methods\\07_Methods.csproj|solutionrelative:07_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A2EF1E-7DBC-4560-8E82-5EABBD135F26}|06_ForeachLoops\\06_ForeachLoops.csproj|C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\06_foreachloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A2EF1E-7DBC-4560-8E82-5EABBD135F26}|06_ForeachLoops\\06_ForeachLoops.csproj|solutionrelative:06_foreachloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF36FC7-C6F8-4776-A08B-B5120601710C}|02_KararYap\u0131lar\u0131\\02_MakingDecisions.csproj|C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\02_kararyap\u0131lar\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF36FC7-C6F8-4776-A08B-B5120601710C}|02_KararYap\u0131lar\u0131\\02_MakingDecisions.csproj|solutionrelative:02_kararyap\u0131lar\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF36FC7-C6F8-4776-A08B-B5120601710C}|02_KararYap\u0131lar\u0131\\02_KararYap\u0131lar\u0131.csproj|C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\02_kararyap\u0131lar\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF36FC7-C6F8-4776-A08B-B5120601710C}|02_KararYap\u0131lar\u0131\\02_KararYap\u0131lar\u0131.csproj|solutionrelative:02_kararyap\u0131lar\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\06_ForeachLoops\\Program.cs",
+              "RelativeDocumentMoniker": "06_ForeachLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\06_ForeachLoops\\Program.cs",
+              "RelativeToolTip": "06_ForeachLoops\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:01:46.67Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\09_DatabaseCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\09_DatabaseCRUD\\Program.cs",
+              "RelativeToolTip": "09_DatabaseCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:32:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\08_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "08_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\08_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "08_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:51:57.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\07_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "07_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\07_Methods\\Program.cs",
+              "RelativeToolTip": "07_Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:51:28.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\02_KararYap\u0131lar\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "02_KararYap\u0131lar\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\02_KararYap\u0131lar\u0131\\Program.cs",
+              "RelativeToolTip": "02_KararYap\u0131lar\u0131\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwIYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:02:27.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\02_KararYap\u0131lar\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "02_KararYap\u0131lar\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CsharpEg\u0131t\u0131mKamp\u0131\\02_KararYap\u0131lar\u0131\\Program.cs",
+              "RelativeToolTip": "02_KararYap\u0131lar\u0131\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwIYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:22:21.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\08_DatabaseProject\bin\Debug\08_DatabaseProject.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\08_DatabaseProject\bin\Debug\08_DatabaseProject.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\08_DatabaseProject\bin\Debug\08_DatabaseProject.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\08_DatabaseProject\obj\Debug\08_DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\08_DatabaseProject\obj\Debug\08_DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\08_DatabaseProject\obj\Debug\08_DatabaseProject.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\08_DatabaseProject\obj\Debug\08_DatabaseProject.pdb

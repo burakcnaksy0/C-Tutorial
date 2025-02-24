@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\04_LoopsWithStar\bin\Debug\04_LoopsWithStar.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\04_LoopsWithStar\bin\Debug\04_LoopsWithStar.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\04_LoopsWithStar\bin\Debug\04_LoopsWithStar.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\04_LoopsWithStar\obj\Debug\04_LoopsWithStar.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\04_LoopsWithStar\obj\Debug\04_LoopsWithStar.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\04_LoopsWithStar\obj\Debug\04_LoopsWithStar.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CsharpEgıtımKampı\04_LoopsWithStar\obj\Debug\04_LoopsWithStar.pdb
