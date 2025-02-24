@@ -1,0 +1,12 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\bin\Debug\CSharpEgitimKampı_301.EntityLayer.dll.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\bin\Debug\CSharpEgitimKampı_301.EntityLayer.dll
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\bin\Debug\CSharpEgitimKampı_301.EntityLayer.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\obj\Debug\CSharpEgitimKampı_301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\obj\Debug\CSharpEgitimKampı_301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\obj\Debug\CSharpEg.3381F1FB.Up2Date
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\obj\Debug\CSharpEgitimKampı_301.EntityLayer.dll
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EntityLayer\obj\Debug\CSharpEgitimKampı_301.EntityLayer.pdb

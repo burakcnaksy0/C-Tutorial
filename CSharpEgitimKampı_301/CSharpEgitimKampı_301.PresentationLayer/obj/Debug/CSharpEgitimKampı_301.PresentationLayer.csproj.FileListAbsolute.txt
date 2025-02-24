@@ -1,0 +1,9 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\bin\Debug\CSharpEgitimKampı_301.PresentationLayer.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\bin\Debug\CSharpEgitimKampı_301.PresentationLayer.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\bin\Debug\CSharpEgitimKampı_301.PresentationLayer.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\obj\Debug\CSharpEgitimKampı_301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\obj\Debug\CSharpEgitimKampı_301.PresentationLayer.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\obj\Debug\CSharpEgitimKampı_301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\obj\Debug\CSharpEgitimKampı_301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\obj\Debug\CSharpEgitimKampı_301.PresentationLayer.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.PresentationLayer\obj\Debug\CSharpEgitimKampı_301.PresentationLayer.pdb

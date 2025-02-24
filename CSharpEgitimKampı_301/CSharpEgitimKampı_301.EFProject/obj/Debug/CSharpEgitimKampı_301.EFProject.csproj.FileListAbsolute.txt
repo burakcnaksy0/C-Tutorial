@@ -1,0 +1,9 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\bin\Debug\CSharpEgitimKampı_301.EFProject.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\bin\Debug\CSharpEgitimKampı_301.EFProject.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\bin\Debug\CSharpEgitimKampı_301.EFProject.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\obj\Debug\CSharpEgitimKampı_301.EFProject.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\obj\Debug\CSharpEgitimKampı_301.EFProject.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\obj\Debug\CSharpEgitimKampı_301.EFProject.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\obj\Debug\CSharpEgitimKampı_301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\obj\Debug\CSharpEgitimKampı_301.EFProject.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpEgitimKampı_301\CSharpEgitimKampı_301.EFProject\obj\Debug\CSharpEgitimKampı_301.EFProject.pdb
